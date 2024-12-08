@@ -1,0 +1,14 @@
+C:\Users\barki\OneDrive\Desktop\DGD203 - BarkınAliLüküslü- Midterm\DGD203 - BarkınAliLüküslü- Midterm\bin\Debug\net8.0\DGD203 - BarkınAliLüküslü- Midterm.exe
+C:\Users\barki\OneDrive\Desktop\DGD203 - BarkınAliLüküslü- Midterm\DGD203 - BarkınAliLüküslü- Midterm\bin\Debug\net8.0\DGD203 - BarkınAliLüküslü- Midterm.deps.json
+C:\Users\barki\OneDrive\Desktop\DGD203 - BarkınAliLüküslü- Midterm\DGD203 - BarkınAliLüküslü- Midterm\bin\Debug\net8.0\DGD203 - BarkınAliLüküslü- Midterm.runtimeconfig.json
+C:\Users\barki\OneDrive\Desktop\DGD203 - BarkınAliLüküslü- Midterm\DGD203 - BarkınAliLüküslü- Midterm\bin\Debug\net8.0\DGD203 - BarkınAliLüküslü- Midterm.dll
+C:\Users\barki\OneDrive\Desktop\DGD203 - BarkınAliLüküslü- Midterm\DGD203 - BarkınAliLüküslü- Midterm\bin\Debug\net8.0\DGD203 - BarkınAliLüküslü- Midterm.pdb
+C:\Users\barki\OneDrive\Desktop\DGD203 - BarkınAliLüküslü- Midterm\DGD203 - BarkınAliLüküslü- Midterm\obj\Debug\net8.0\DGD203 - BarkınAliLüküslü- Midterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barki\OneDrive\Desktop\DGD203 - BarkınAliLüküslü- Midterm\DGD203 - BarkınAliLüküslü- Midterm\obj\Debug\net8.0\DGD203 - BarkınAliLüküslü- Midterm.AssemblyInfoInputs.cache
+C:\Users\barki\OneDrive\Desktop\DGD203 - BarkınAliLüküslü- Midterm\DGD203 - BarkınAliLüküslü- Midterm\obj\Debug\net8.0\DGD203 - BarkınAliLüküslü- Midterm.AssemblyInfo.cs
+C:\Users\barki\OneDrive\Desktop\DGD203 - BarkınAliLüküslü- Midterm\DGD203 - BarkınAliLüküslü- Midterm\obj\Debug\net8.0\DGD203 - BarkınAliLüküslü- Midterm.csproj.CoreCompileInputs.cache
+C:\Users\barki\OneDrive\Desktop\DGD203 - BarkınAliLüküslü- Midterm\DGD203 - BarkınAliLüküslü- Midterm\obj\Debug\net8.0\DGD203 - BarkınAliLüküslü- Midterm.dll
+C:\Users\barki\OneDrive\Desktop\DGD203 - BarkınAliLüküslü- Midterm\DGD203 - BarkınAliLüküslü- Midterm\obj\Debug\net8.0\refint\DGD203 - BarkınAliLüküslü- Midterm.dll
+C:\Users\barki\OneDrive\Desktop\DGD203 - BarkınAliLüküslü- Midterm\DGD203 - BarkınAliLüküslü- Midterm\obj\Debug\net8.0\DGD203 - BarkınAliLüküslü- Midterm.pdb
+C:\Users\barki\OneDrive\Desktop\DGD203 - BarkınAliLüküslü- Midterm\DGD203 - BarkınAliLüküslü- Midterm\obj\Debug\net8.0\DGD203 - BarkınAliLüküslü- Midterm.genruntimeconfig.cache
+C:\Users\barki\OneDrive\Desktop\DGD203 - BarkınAliLüküslü- Midterm\DGD203 - BarkınAliLüküslü- Midterm\obj\Debug\net8.0\ref\DGD203 - BarkınAliLüküslü- Midterm.dll
